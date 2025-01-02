@@ -1,4 +1,4 @@
-# HR-Analysis-using-PowerBi
+# Employee Attrition Analytics 
 
 # Objective:
 The company's owner requires assistance in establishing a dashboard to track staff performance and attrition.
